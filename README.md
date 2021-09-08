@@ -17,7 +17,10 @@ Pri projektu uporabljamo racunalniski program _Mathematica_.
 ### Aplikacija
 Pri projektu sem pripravil aplikacijo v Wolfram cloud. Dostopna je na spodnjem naslovu:
 
+https://www.wolframcloud.com/obj/b2572a5a-5345-4844-8a23-5f2e210cc139
+
 ### Videoposnetek predstavitve
 
+https://www.youtube.com/watch?v=4otth9w1oT4
 
 Pripravil: _Žiga Avbreht_
